@@ -16,7 +16,6 @@
     Hello there! I'm <b>Yosea Mervandy Sugiarto</b>, a Software Engineer and a recent Informatics Engineering graduate from Telkom University Purwokerto. I enjoy learning new technologies and solving problems through code. Currently, I'm working on a few fun side projects to put my knowledge of Kotlin, React, Bootstrap, and more into practice.
   </p>
 </div>
-
 <div align="center">
   <img src="img/techStack_icon.png" alt="Tech Stack Icon" width="25" style="vertical-align:center"/> 
   <b><font size="5">Tech Stack</font></b>
