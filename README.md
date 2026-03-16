@@ -13,7 +13,7 @@
   <b><font size="5">About Me</font></b>
   <br><br>
   <p align="justify">
-    Hello there! I'm <b>Yosea Mervandy Sugiarto</b>, a Software Engineer and a recent Informatics Engineering graduate from Telkom University Purwokerto. I enjoy learning new technologies and solving problems through code. Currently, I'm working on a few fun side projects to put my knowledge of Kotlin, React, Bootstrap, and more into practice.
+    Hello there! I'm <b>Yosea Mervandy Sugiarto</b>, a Software Developer and a recent Informatics Engineering graduate from Telkom University Purwokerto. I enjoy learning new technologies and solving problems through code. Currently, I'm working on a few fun side projects to put my knowledge of Kotlin, React, Bootstrap, and more into practice.
   </p>
 </div>
 <div align="center">
